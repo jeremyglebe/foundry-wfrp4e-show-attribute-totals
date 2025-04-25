@@ -1,0 +1,27 @@
+{
+  "id": "wfrp4e-show-attribute-totals",
+  "title": "WFRP4e Show Attribute Totals",
+  "description": "During character generation, this module will show the total sum of all attributes. This will help compare rolls and rerolls to each other (as well as to the average or allocation option).",
+  "authors": [
+    {
+      "name": "Jeremy Glebe",
+      "email": "jeremyglebe@gmail.com"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ]
+}

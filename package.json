@@ -1,0 +1,20 @@
+{
+  "name": "wfrp4e-show-attribute-totals",
+  "version": "0.0.1",
+  "description": "During character generation, this module will show the total sum of all attributes. This will help compare rolls and rerolls to each other (as well as to the average or allocation option).",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "build:copy": "node utilities/reverse-copy-packs.js && tsc && vite build"
+  },
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
+    "rollup-plugin-copy": "^3.5.0",
+    "sass": "^1.74.1",
+    "typescript": "^5.4.4",
+    "vite": "^5.2.8"
+  }
+}

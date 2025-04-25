@@ -1,0 +1,1 @@
+Module Manifest (for installing): [https://github.com/jeremyglebe/Foundry-Saga-of-The-Goblin-Horde/releases/latest/download/module.json](https://github.com/jeremyglebe/Foundry-Saga-of-The-Goblin-Horde/releases/latest/download/module.json)
