@@ -1,1 +1,1 @@
-Module Manifest (for installing): [https://github.com/jeremyglebe/Foundry-Saga-of-The-Goblin-Horde/releases/latest/download/module.json](https://github.com/jeremyglebe/Foundry-Saga-of-The-Goblin-Horde/releases/latest/download/module.json)
+Module Manifest (for installing): [https://github.com/jeremyglebe/foundry-wfrp4e-show-attribute-totals/releases/latest/download/module.json](https://github.com/jeremyglebe/foundry-wfrp4e-show-attribute-totals/releases/latest/download/module.json)
